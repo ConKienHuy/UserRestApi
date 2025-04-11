@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Fsigm0AAJot0+jSt+brw1wweqU70ZcOuaJcK42hjc3E=",
+  "Source": "UserRestAPI",
+  "BasePath": "_content/UserRestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
